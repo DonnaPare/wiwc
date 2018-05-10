@@ -1,0 +1,45 @@
+body {
+  margin: .5em;
+  font-family: fantasy;
+  text-align: center;
+}
+
+* {
+  background-color: beige;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  font-size: 2em:
+  height: 10vh;
+}
+
+/*
+The following code puts a color around the text.
+p {
+  background-color: #fff;
+  height: 2vh;
+}
+
+*/
+
+img {
+  /* any styles just for images */
+  height: 25vh;
+  transform: rotate(0deg);
+}
+/* the following is showing how to put text on top of an element i.e., an image
+
+section {
+ position: relative;
+}
+
+.about {
+position: absolute;
+top 27%;
+left: -1%;
+}
+
+*/
