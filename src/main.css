@@ -12,8 +12,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100vw;
-  font-size: 2em:
-  height: 10vh;
+  font-size: 2em: height: 10vh;
 }
 
 /*
@@ -30,6 +29,7 @@ img {
   height: 25vh;
   transform: rotate(0deg);
 }
+
 /* the following is showing how to put text on top of an element i.e., an image
 
 section {
